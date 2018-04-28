@@ -1,3 +1,3 @@
-rootProject.name = 'tdd_template'
-include 'common'
+rootProject.name = 'platformIntegTest'
+include 'webTemplate'
 
